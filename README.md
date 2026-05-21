@@ -1,9 +1,13 @@
 # ShopForge Admin
 
 Deployment
-shop-froge-client-i-side-f1euxezqj-tejaskarde21s-projects.vercel.app
+
+"  shop-froge-client-i-side-f1euxezqj-tejaskarde21s-projects.vercel.app  "
+
 Domains
-shop-froge-client-i-side.vercel.app
+
+" shop-froge-client-i-side.vercel.app "
+""  https://shop-froge-client-i-side.vercel.app/  ""
 
 A client-side admin dashboard demo for ShopForge, built as a single-page HTML application with React and in-browser data management.
 
